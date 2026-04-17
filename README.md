@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Einzber4/Einzber4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+<img src="https://i.pinimg.com/originals/6e/2a/b0/6e2ab023e26a9b461bfb13abf6f62b7e.gif" alt="banner" width="100%" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Einzbern+%F0%9F%91%BE;Lua+%26+Python+developer;always+building+something.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### `> whoami`
+
+```lua
+local me = {
+  name    = "Einzbern",
+  handle  = "@Einzber4",
+  langs   = { "Lua", "Python" },
+  vibe    = "building things quietly.",
+}
+```
+
+---
+
+### `> languages`
+
+<div align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlxeG1wNWE4bG9oY3dlZmZmcTBwOGh0d3BzdmhoN3VxMWVseGZiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsoCk5kgOcYMmJENUp/giphy.gif" width="80" title="Lua"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="80" title="Python"/>
+
+<br/><br/>
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+### `> stats`
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Einzber4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einzber4&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### `> activity`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Einzber4&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+*"A Empty Mind, Heart."*
+
+![visitors](https://komarev.com/ghpvc/?username=Einzber4&color=blueviolet&style=flat-square)
+
+</div>
