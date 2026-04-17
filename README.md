@@ -64,7 +64,7 @@ local me = {
 
 <div align="center">
 
-*"「すべてはあなたのせいだ。」."*
+*"A Empty Heart, Is The Road To The Success."*
 
 ![visitors](https://komarev.com/ghpvc/?username=Einzber4&color=blueviolet&style=flat-square)
 
