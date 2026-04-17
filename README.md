@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src=<p><a href="https://www.youtube.com/watch?v=SDkAGkd4NLc"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG"></a></p>
-<p>" alt="banner" width="100%" />
-
-<br/>
+<p><a href="https://www.youtube.com/watch?v=SDkAGkd4NLc"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG"></a></p>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Einzbern+%F0%9F%91%BE;Lua+%26+Python+developer;always+building+something.)](https://git.io/typing-svg)
