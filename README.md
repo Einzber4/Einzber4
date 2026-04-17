@@ -12,7 +12,7 @@
 
 ---
 
-### `> whoami`
+### `> Who i Am?`
 
 ```lua
 local me = {
