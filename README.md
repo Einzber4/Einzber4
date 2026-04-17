@@ -1,23 +1,25 @@
 <div align="center">
 
 <!-- Banner -->
-<p><a href="https://www.youtube.com/watch?v=SDkAGkd4NLc"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG"></a></p>
+<img src="https://media1.tenor.com/m/p4fosn96NQIAAAAd/snow-background.gif" alt="banner" width="100%" />
+
+<br/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Einzbern+%F0%9F%91%BE;Lua+%26+Python+developer;always+building+something.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+i'm+Einzbern+%F0%9F%A5%80;Lua+%26+Python+developer;Always+Working+In+Silence.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### `> who i am?`
+### `> whoami`
 
 ```lua
 local me = {
   name    = "Einzbern",
   handle  = "@Einzber4",
   langs   = { "Lua", "Python" },
-  vibe    = "The Silence Is Virtue, That Few Posses.",
+  vibe    = "Accept The Pain, Smile For Pain. - Columbina.",
 }
 ```
 
@@ -27,14 +29,28 @@ local me = {
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlxeG1wNWE4bG9oY3dlZmZmcTBwOGh0d3BzdmhoN3VxMWVseGZiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsoCk5kgOcYMmJENUp/giphy.gif" width="80" title="Lua"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="80" title="Python"/>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" alt="Linux"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="65" alt="Lua"/><br/>
+      <sub><b>Lua</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 </div>
 
