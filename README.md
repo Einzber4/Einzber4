@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://tenor.com/oxVtda0coMM.gif" alt="banner" width="100%" />
+<img src=<p><a href="https://www.youtube.com/watch?v=SDkAGkd4NLc"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG"></a></p>
+<p>" alt="banner" width="100%" />
 
 <br/>
 
@@ -12,14 +13,14 @@
 
 ---
 
-### `> whoami`
+### `> who i am?`
 
 ```lua
 local me = {
   name    = "Einzbern",
   handle  = "@Einzber4",
   langs   = { "Lua", "Python" },
-  vibe    = "building things quietly.",
+  vibe    = "The Silence Is Virtue, That Few Posses.",
 }
 ```
 
@@ -66,7 +67,7 @@ local me = {
 
 <div align="center">
 
-*"A Empty Mind, Heart."*
+*"A Enpty Heart."*
 
 ![visitors](https://komarev.com/ghpvc/?username=Einzber4&color=blueviolet&style=flat-square)
 
