@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://pin.it/2BhmGGk7r" alt="banner" width="100%" />
+<img src="https://tenor.com/oxVtda0coMM.gif" alt="banner" width="100%" />
 
 <br/>
 
