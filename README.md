@@ -67,7 +67,7 @@ local me = {
 
 <div align="center">
 
-*"A Enpty Heart."*
+*"「すべてはあなたのせいだ。」."*
 
 ![visitors](https://komarev.com/ghpvc/?username=Einzber4&color=blueviolet&style=flat-square)
 
