@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://i.pinimg.com/originals/6e/2a/b0/6e2ab023e26a9b461bfb13abf6f62b7e.gif" alt="banner" width="100%" />
+<img src="https://pin.it/2BhmGGk7r" alt="banner" width="100%" />
 
 <br/>
 
