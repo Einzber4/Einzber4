@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://media1.tenor.com/m/p4fosn96NQIAAAAd/snow-background.gif" alt="banner" width="100%" />
 
-<div align="center"> </div>
+<br/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+i'm+Einzbern+%F0%9F%A5%80;Lua+%26+Python+developer;Always+Working+In+Silence.)](https://git.io/typing-svg)
@@ -12,12 +12,42 @@
 
 ---
 
-### `> Who i Am?`
+<div align="center">
+
+```
+                         . . . . .
+                      .             .
+                    .   · · · · ·   .
+                   .    ·       ·    .
+                  .     ·   ╻   ·     .
+                  .     ·   ║   ·     .
+                  .     ·   ║   ·     .
+                   . . .·. .║. .·. . .
+              ╔════════════╦════════════╗
+              ║  ─  ─  ─  ║  ─  ─  ─  ║
+              ╚════════════╩════════════╝
+                   . . .·. .║. .·. . .
+                  .     ·   ║   ·     .
+                  .     ·   ║   ·     .
+                  .     ·   ║   ·     .
+                  .     ·   ║   ·     .
+                  .     ·   ║   ·     .
+                   .    ·   ╹   ·    .
+                    .   · · · · ·   .
+                      .             .
+                         . . . . .
+```
+
+</div>
+
+---
+
+### `> who i am?`
 
 ```lua
 local me = {
   name    = "Einzbern",
-  handle  = "@Einzber4",
+  handle  = ?,
   langs   = { "Lua", "Python" },
   vibe    = "Accept The Pain, Smile For Pain. - Columbina.",
 }
