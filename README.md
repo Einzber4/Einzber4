@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://media1.tenor.com/m/p4fosn96NQIAAAAd/snow-background.gif" alt="banner" width="100%" />
+<img src="https://idyllic-bunny-0333b7.netlify.app" alt="banner" width="100%" />
 
 <br/>
 
@@ -42,14 +42,14 @@
 
 ---
 
-### `> who i am?`
+### `> whoami`
 
 ```lua
 local me = {
   name    = "Einzbern",
-  handle  = ?,
+  handle  = "@Einzber4",
   langs   = { "Lua", "Python" },
-  vibe    = "Accept The Pain, Smile For Pain. - Columbina.",
+  vibe    = "building things quietly.",
 }
 ```
 
@@ -110,7 +110,7 @@ local me = {
 
 <div align="center">
 
-*"You Are A Trickster."*
+*"talk is cheap. show me the code."*
 
 ![visitors](https://komarev.com/ghpvc/?username=Einzber4&color=blueviolet&style=flat-square)
 
