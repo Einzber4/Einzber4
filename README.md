@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://idyllic-bunny-0333b7.netlify.app" alt="banner" width="100%" />
+<img src="https://i.imgur.com/13n6EAs.pngr" width="100%" />
 
 <br/>
 
