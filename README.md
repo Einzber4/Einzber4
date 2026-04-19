@@ -49,7 +49,7 @@ local me = {
   name    = "Einzbern",
   handle  = "@Einzber4",
   langs   = { "Lua", "Python" },
-  vibe    = "building things quietly.",
+  vibe    = "Accept The Pain, Smile For Pain. - Columbina.",
 }
 ```
 
@@ -110,7 +110,7 @@ local me = {
 
 <div align="center">
 
-*"talk is cheap. show me the code."*
+*"You Are A Trickster."*
 
 ![visitors](https://komarev.com/ghpvc/?username=Einzber4&color=blueviolet&style=flat-square)
 
