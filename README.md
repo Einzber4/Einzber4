@@ -42,7 +42,7 @@
 
 ---
 
-### `> whoami`
+### `> who i am?`
 
 ```lua
 local me = {
@@ -61,17 +61,33 @@ local me = {
 
 <table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" alt="Linux"/><br/>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="55" alt="Linux"/><br/>
       <sub><b>Linux</b></sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python"/><br/>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/><br/>
       <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="65" alt="Lua"/><br/>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="55" alt="Lua"/><br/>
       <sub><b>Lua</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"/><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cs" width="55" alt="C#"/><br/>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
     </td>
   </tr>
 </table>
@@ -81,6 +97,10 @@ local me = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -115,3 +135,4 @@ local me = {
 ![visitors](https://komarev.com/ghpvc/?username=Einzber4&color=blueviolet&style=flat-square)
 
 </div>
+
