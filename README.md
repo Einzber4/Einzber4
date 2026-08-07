@@ -1,38 +1,39 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://i.imgur.com/13n6EAs.pngr" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Einzber;Developer+%E2%80%A2+Trader" alt="Typing SVG" />
 
-<br/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+i'm+Einzbern+%F0%9F%A5%80;Lua+%26+Python+developer;Always+Working+In+Silence.)](https://git.io/typing-svg)
+> *記憶とは、過去の亡霊に他ならない。*
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
+Developer focused on creating clean, maintainable and efficient software.
+
+- Clean Architecture
+- Automation
+- Software Engineering
+- Open Source
+- Continuous Learning
+
+---
+
+## Technologies
+
+```text
+Languages   Java • Python • JavaScript • C#
+Tools       Git • GitHub • Linux • VS Code
 ```
-                         . . . . .
-                      .             .
-                    .   · · · · ·   .
-                   .    ·       ·    .
-                  .     ·   ╻   ·     .
-                  .     ·   ║   ·     .
-                  .     ·   ║   ·     .
-                   . . .·. .║. .·. . .
-              ╔════════════╦════════════╗
-              ║  ─  ─  ─  ║  ─  ─  ─  ║
-              ╚════════════╩════════════╝
-                   . . .·. .║. .·. . .
-                  .     ·   ║   ·     .
-                  .     ·   ║   ·     .
-                  .     ·   ║   ·     .
-                  .     ·   ║   ·     .
-                  .     ·   ║   ·     .
-                   .    ·   ╹   ·    .
+
+---
+
+## Philosophy
+
+> *Quality over quantity.*
+
+---
                     .   · · · · ·   .
                       .             .
                          . . . . .
