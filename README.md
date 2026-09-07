@@ -2,7 +2,7 @@
 
 </div>---
 
-About
+ ### About
 
 Developer focused on creating clean, maintainable and efficient software.
 
@@ -14,7 +14,7 @@ Developer focused on creating clean, maintainable and efficient software.
 
 ---
 
-Technologies
+### Technologies
 
 Languages   Java • Python • JavaScript • C#
 Tools       Git • GitHub • Linux • VS Code
