@@ -18,5 +18,3 @@ Technologies
 
 Languages   Java • Python • JavaScript • C#
 Tools       Git • GitHub • Linux • VS Code
-
-"Linux" (https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FFFFFF)
