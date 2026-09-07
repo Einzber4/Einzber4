@@ -18,11 +18,3 @@ Technologies
 
 Languages   Java • Python • JavaScript • C#
 Tools       Git • GitHub • Linux • VS Code
-
-<div align="left">""Java" (https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=FFFFFF)" (https://www.java.com/)
-""Python" (https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFFFFF)" (https://www.python.org/)
-""JavaScript" (https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FFFFFF)" (https://developer.mozilla.org/docs/Web/JavaScript)
-""Git" (https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FFFFFF)" (https://git-scm.com/)
-""Linux" (https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FFFFFF)" (https://www.linux.org/)
-
-</div>
