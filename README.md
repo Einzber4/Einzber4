@@ -20,11 +20,13 @@ Developer focused on creating clean, maintainable and efficient software.
 - Continuous Learning
 
 ---
+Technologies
 
-### Technologies
+Languages   Java • Python • JavaScript • C#
+Tools       Git • GitHub • Linux • VS Code
 
-**Languages:** Java • Python • JavaScript • C#
-**Tools:** Git • GitHub
+
+
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
