@@ -22,7 +22,7 @@ Developer focused on creating clean, maintainable and efficient software.
 ---
 ### Technologies
 
- ### Languages   Java • Python • JavaScript • C#
+ Languages   Java • Python • JavaScript • C#
 Tools       Git • GitHub • Linux • VS Code
 
 
